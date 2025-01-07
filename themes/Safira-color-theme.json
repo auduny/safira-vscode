@@ -1,5 +1,5 @@
 {
-  "name": "safira",
+  "name": "safiray",
   "type": "dark",
   "author": "Rodrigo R. Cotta <yinzdev@gmail.com>",
   "colors": {
@@ -91,7 +91,7 @@
     "editorBracketHighlight.foreground2": "#DFCAA8",
     "editorBracketHighlight.foreground3": "#c2e1f0",
 
-    "editorGroupHeader.border": "#00000000",
+    "editorGroupHeader.border": "#e6282800",
     "editorGroup.border": "#434A56ab",
     "editorGroup.emptyBackground": "#161D26",
     "editorGroupHeader.noTabsBackground": "#161D26",
@@ -133,10 +133,10 @@
     "breadcrumb.activeSelectionForeground": "#EBEBEB",
     "breadcrumbPicker.background": "#434A56",
 
-    "sideBar.background": "#0F1922",
+    "sideBar.background": "#404040",
     "sideBar.foreground": "#969696",
     "sideBarTitle.foreground": "#AEAEAE",
-    "sideBarSectionHeader.background": "#0F1922",
+    "sideBarSectionHeader.background": "#404040",
     "sideBarSectionHeader.foreground": "#ACACAC",
     "sideBarSectionHeader.border": "#434A56ab",
 
@@ -336,7 +336,7 @@
     "welcomePage.background": "#161D26",
     "welcomePage.tileBackground": "#0C141B",
     "welcomePage.tileBorder": "#0076A4",
-    "welcomePage.tileHoverBackground": "#0F1922",
+    "welcomePage.tileHoverBackground": "#404040",
     "welcomePage.progress.background": "#18283C",
     "welcomePage.progress.foreground": "#004A6A"
   },

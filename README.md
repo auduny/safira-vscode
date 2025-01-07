@@ -9,6 +9,16 @@
 Safira
 </h1>
 
+Colors
+
+background1: #303030
+background2: #353535
+background3: #404040
+forground: #DCDEDF
+
+Oldbackground: "#161D26"
+
+
 <p align="center">
 A minimalistic, stylish dark blue theme with crisp syntax.
 </p>
