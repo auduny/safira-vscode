@@ -7,7 +7,8 @@
 .babelrc
 .eslintrc
 **/*.map
-demos/**
+demo/**
+themes/Safira-color-theme.json
 node_modules
 yarn.lock
 vsc-extension-quickstart.md

@@ -1,65 +1,45 @@
 <p align="center">
-  <img alt="Safira Logo" src="https://imgur.com/jAW4ht2.png" width="100" alt="Safira Theme Logo" />
+  <img alt="Safiray Logo" src="https://imgur.com/jAW4ht2.png" width="100" />
 </p>
+
 <div align="center">
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/yinz.safira?style=for-the-badge&labelColor=1B2838&color=127499)](https://marketplace.visualstudio.com/items?itemName=yinz.safira)
+# Safiray Theme
 
-<h1 align="center">
-Safira
-</h1>
+A fork of the original Safira theme, with ongoing UI and syntax tweaks.
 
-Colors
-
-background1: #303030
-background2: #353535
-background3: #404040
-forground: #DCDEDF
-
-Oldbackground: "#161D26"
-
-
-<p align="center">
-A minimalistic, stylish dark blue theme with crisp syntax.
-</p>
 </div>
 
-<div align="center">
-<img alt="Safira Ruby Code" src="https://imgur.com/ZwxN0Ot.png" />
-<img alt="Safira Javascript" src="https://imgur.com/fsqfx4C.png" />
-<img alt="Safira HTML Code" src="https://imgur.com/guwpzG2.png" />
-<img alt="Safira Typescript" src="https://imgur.com/zLoILX9.png" />
-</div>
+## Fork Notice
 
-Font used [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+This repository is a fork of the original [Safira](https://github.com/yinzdev/safira-vscode) theme by Yinz.
 
-> The token colors are carefully adjusted to improve user experience. Syntax contrast meets the Web Content Accessibility Guidelines (WCAG 2.0) effectively.
+This fork is maintained as **Safiray** and published under the `auduny` publisher.
 
-## More about Safira
+## What's New In This Fork
 
-A simple and elegant theme, featuring a dark blue UI with carefully chosen easy on the eyes syntax colors that provide optimal contrast, clarity, and focus. The [Safira Theme](https://marketplace.visualstudio.com/items?itemName=yinz.safira) is compatible with VSCode 1.67.0+.
+- Rebranded extension and theme label to **Safiray Theme** / **Safiray Dark**.
+- Marketplace identity moved from `yinz.safira` to `auduny.safiray`.
+- Continued color tuning for UI and syntax balance.
+- `semanticHighlighting` enabled by default.
+- Additional Git decoration color adjustments.
 
-"Safira" is the term used to refer to the precious gemstone sapphire 💎 in my home country `Brazil`. I was thinking of a name for the theme, and this immediately came to mind when I thought about anything blue. There's no other specific reason.
+## Installation
 
-## Installation Guide
+1. Open Extensions in VS Code (`Cmd+Shift+X` on macOS, `Ctrl+Shift+X` on Windows/Linux).
+2. Search for `Safiray Theme` by `auduny`.
+3. Install the extension.
+4. Open `Preferences: Color Theme`.
+5. Select `Safiray Dark`.
 
-1. Open the **extensions** sidebar. Alternatively, you can access it through the menu `View → Extensions`, or by pressing `Ctrl+Shift+X` on **Windows/Linux** or `Cmd+Shift+X` on **MacOS** to focus on the extensions view
-1. Search for `Safira Theme` by **Yinz**
-1. Click **Install**, reload [Visual Studio Code](https://code.visualstudio.com/)
-1. Go to File > Preferences > Color Theme > **Safira Theme**
-1. Support the theme: [**Rate it**](https://marketplace.visualstudio.com/items?itemName=yinz.safira) ⭐⭐⭐⭐⭐
-1. Star the [**repository**](https://github.com/yinzdev/safira-vscode/stargazers)
+If you install from source, clone this repository and run the extension from VS Code extension development host.
 
-## Recommended settings
+## Recommended Settings
 
-Go to your `settings.json` through these steps:
+Open user settings JSON and add:
 
-1. Press `Ctrl+Shift+P` on **Windows/Linux** or `Cmd+Shift+P` on **MacOS** to open the command palette
-1. Search for 'Open User Settings (JSON)' and select it
-1. Add the following:
-
-```
-"workbench.colorTheme": "Safira Dark",
+```json
+"workbench.colorTheme": "Safiray Dark",
 "editor.fontFamily": "JetBrains Mono",
 "editor.fontLigatures": true,
 "editor.fontSize": 14,
@@ -67,14 +47,16 @@ Go to your `settings.json` through these steps:
 "editor.semanticHighlighting.enabled": true
 ```
 
-## Buy me a cup of coffee
+## Links
 
-- Enjoying the theme? Show your support by [donating via PayPal](https://www.paypal.com/donate/?hosted_button_id=3A2E3C8T9X4QG)
+- Fork repository: https://github.com/auduny/safira-vscode
+- Original project: https://github.com/yinzdev/safira-vscode
+- Issues for this fork: https://github.com/auduny/safira-vscode/issues
 
-## Something isn't right?
+## Credits
 
-- Please report any issues, bugs, or suggestions for improvements [here](https://github.com/yinzdev/safira-vscode/issues)
+All credit for the original Safira concept and initial implementation goes to [Yinz](https://github.com/yinzdev).
 
 ## License
 
-- Released under the [MIT License](https://github.com/yinzdev/safira-vscode/blob/main/license.md)
+Released under the MIT License. See [license.md](license.md).

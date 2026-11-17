@@ -1,3 +1,9 @@
+## 0.0.10
+
+`2026-11-17`
+
+- Updated the Safiray theme and package metadata.
+
 ## 0.0.9
 
 `2024-04-11`
